@@ -1,0 +1,1 @@
+Proyecto. Analisis y Prediccion de Generacion de Energia Solar y Eólica en Alemania, con base en datos cliamtologicos como temperatura, radiacion.
